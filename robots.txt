@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zoovoohai.jia58960.com/sitemap.xml
